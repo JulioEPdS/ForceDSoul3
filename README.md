@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ForceDSoul3 - Julio Emmanuel Pérez
-- 👀 I’m interested in web developing with react
-- 🌱 I’m currently learning react and node.js for a full stack project
+- 👀 I'm going to improve this... after I finish ricing my Arch
 
 
 <!---
