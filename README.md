@@ -21,7 +21,9 @@ You now, Arch gives a headache to whoever dares to just jump into it's nest whit
 comes with the try-and-fail cicle that comes when installing, but after that, believe me, you start to develop some kind
 of super powers.
 
-![my first working gui](https://github.com/JulioEPdS/JulioEPdS/tree/main/screenshots/HandsOnArchAndXMonad.png "my first rice")
+First time, picked X11 and Xmonad:
+![alt text](https://github.com/JulioEPdS/JulioEPdS/tree/main/screenshots/HandsOnArchAndXMonad.png "my first rice")
+
 This was my first successfull attempt to install Xserver to my Arch linux, I somehow choosed to start
 my path using XMonad, which wasn't easy at first and I never mastered, but undertood to the just enough spot. 
 
