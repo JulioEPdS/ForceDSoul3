@@ -31,7 +31,20 @@ else for the uni, to have a glance at a diferent linux distro, to test services,
 a few personal needs at home, I started to doubt about the so called "privacy" companies provide, I saw an 
 opportunity to test myself, to learn new things and _**build** >> **destroy** >> **rebuild**_, there are a lot of services that a modern home needs and use but using a provider right now, I want to have the power, homelabbing gave me that.
 
+## Projects
+At the moment I work as a service technician, I tend to do stuff out of my knowledge more often than what I
+actually know more of, I actually invested all my spare time getting to know linux better, right now I feel
+confident with the knowledge I acquired so I plan on resuming my dev path, the labbing and linux prep had
+the same objective: getting myself to code.
 
+- Personal projects are the number one priority right now, I'll take my own home needs and give them solutions
+using my lab and code skills, upcoming are the _*sane*_ frontends projects, multi platform local file transfers,
+local personal cloud, networking using opnsense, to mention some.
+
+## Objectives
+Get better at linux, pay for some certifications and try to land a job where I can aply the skills I have,
+I've been dreaming about being the tech guy sorrounded by servers, on racks, working with a dev team, deploying
+solutions 
 <!---
 ForceDSoul3/ForceDSoul3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
